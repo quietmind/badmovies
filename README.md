@@ -1,11 +1,3 @@
-# custom_starter
-This is a custom boilerplate for react and node with express
+# Bad Movies
 
-First run npm install
-make sure you have webpack installed (npm install -g webpack)
-then run these two commands in order:
-npm run react-dev 
-wait for it to compile 
-npm run server-dev
-
-start coding
+Learn the fundamentals of application structure and database integration by making a webapp which gives you horrible movies to look at based on certain search criteria. The user can then opt to save a movie to their favorites and also delete items they don't like anymore. 
